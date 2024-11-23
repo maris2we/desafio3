@@ -1,0 +1,21 @@
+[
+    {
+      "name": "João Silva",
+      "testimonial": "Excelente serviço! Recomendo a todos.",
+      "role": "Empresário",
+      "image": "../images/pessoa2.jpg"
+    },
+    {
+      "name": "Maria Oliveira",
+      "testimonial": "Profissionais altamente qualificados e sempre dispostos a ajudar.",
+      "role": "Engenheira",
+      "image": "../images/pessoa1.jpg"
+    },
+    {
+      "name": "Carlos Mendes",
+      "testimonial": "Minha empresa cresceu graças ao suporte oferecido.",
+      "role": "Empresário",
+      "image": "../images/pessoa3.jpg"
+    }
+  ]
+  

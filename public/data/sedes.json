@@ -1,0 +1,17 @@
+[
+    {
+      "name": "Sede São Paulo",
+      "address": "Rua Qualquer, 123"
+      
+    },
+    {
+      "name": "Sede Rio de Janeiro",
+      "address": "Avenida Tal, 456"
+    
+    },
+    {
+      "name": "Sede Belo Horizonte",
+      "address": "Rua Avulsa, 789"
+    }
+  ]
+  
